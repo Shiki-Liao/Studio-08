@@ -1,0 +1,115 @@
+:: StoryTitle
+Shiqi Liao
+
+
+:: StoryData
+{
+  "ifid": "281993B6-B2CA-4FC5-887A-71E137D3B9AD",
+  "format": "Harlowe",
+  "format-version": "3.3.6",
+  "start": "your name",
+  "zoom": 1
+}
+
+
+:: Advantages of Favorite Majors {"position":"225,150","size":"100,100"}
+[[Passion and motivation]]
+
+[[durability]]
+
+[[sense of accomplishment]]
+
+<img src=https://i.postimg.cc/HLZKD9xV/IMG-1075.jpg>
+
+
+:: Advantages of professions that will make money in the future {"position":"925,200","size":"100,100"}
+[[economic security]]
+
+[[ROI]]
+
+[[stability]]
+
+<img src=https://i.postimg.cc/HLZKD9xV/IMG-1075.jpg>
+
+
+:: Choose {"position":"550,375","size":"100,100"}
+$name , How about the[[Enjoy major]]，or[[Professions that will make money in the future]]more importantly？
+
+<img src=https://i.postimg.cc/nLc5PPny/IMG-1078.jpg>
+
+
+:: Continue\  {"position":"550,850","size":"100,100"}
+"No matter the path thou chooseth, give thy whole heart and strive to pursue thine own goals."
+
+
+<img src=https://i.postimg.cc/90qYkGR5/IMG-1081.jpg>
+
+
+:: Enjoy major {"position":"400,250","size":"100,100"}
+Let me analyze this......
+[[Advantages of Favorite Majors]]
+
+
+
+
+
+
+
+
+
+
+
+:: Passion and motivation {"position":"0,225","size":"100,100"}
+"If you have a passion for learning and pursuing a particular field of expertise, you'll likely find yourself more devoted, driven, and focused on studying and developing skills in that domain. When you truly love what you do, it becomes an endless source of motivation and dedication, propelling you to excel and grow in ways you never imagined. Embrace that passion, for it will lead you to greatness."
+
+[[》]]
+
+
+:: Professions that will make money in the future {"position":"725,250","size":"100,100"}
+Let me analyze this......
+[[Advantages of professions that will make money in the future]]
+
+
+:: ROI {"position":"1400,550","size":"100,100"}
+ Investing in a profession with better pay and career opportunities could actually help you achieve your financial goals faster in the future. It opens up more economic opportunities and can positively impact your financial situation down the road. 
+
+[[》]]
+
+
+:: durability {"position":"25,450","size":"100,100"}
+"When facing hardships and challenges, your passion for what you do becomes an unstoppable force that propels you forward! It ignites a fire within, infusing you with vitality and resilience. Embrace that boundless enthusiasm, for it will be the spark that drives you to conquer any obstacle with unwavering determination and unwavering spirit!"
+
+[[》]]
+
+
+:: economic security {"position":"1400,325","size":"100,100"}
+"Choosing a profession with high demand and a promising salary level can enhance your competitiveness in the job market and bring better economic prospects for your future.”
+
+[[》]]
+
+
+:: sense of accomplishment {"position":"25,50","size":"100,100"}
+"Do you know, when you immerse yourself in a field you love and make progress, achieving success brings an unparalleled sense of satisfaction and joy. Each step of improvement is so worth looking forward to, leaving you fulfilled and delighted. So, don't settle for the status quo; pursue what you love, and you'll find that this joy will accompany you throughout your life."
+
+[[》]]
+
+
+:: stability {"position":"1400,125","size":"100,100"}
+"Well, during economic fluctuations, some professions do offer more stability. Considering this factor might provide you with additional security in uncertain times.”
+
+[[》]]
+
+
+:: your name {"position":"550,525","size":"100,100"}
+"Hello! It's great to see you! I'm Shiqi. May I know your name?"
+
+(input-box: bind $name, "XXX=", 1) 
+
+
+[[Choose]]
+
+
+:: 》 {"position":"550,675","size":"100,100"}
+$name, hearken well! Thine choices should be woven from thy own circumstances and aspirations. Some may set their sights upon pursuing their passions, whilst others may be drawn to the allure of riches. Whichever path thou dost tread, 'tis imperative to ponder deeply and strategize, ensuring that thine occupational journey aligns with thy very own values and goals.
+
+[[Continue ]] 
